@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="75.0"
+      prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="se2324.assignment08architectureimplementationsimonkiliannils.FileController">
+   <Button fx:id="upload" layoutX="500.0" layoutY="25.0" mnemonicParsing="false" onAction="#onUploadClick"
+           prefHeight="25.0" prefWidth="80.0" text="Upload"/>
+   <Button fx:id="browse" layoutX="400.0" layoutY="25.0" mnemonicParsing="false" onAction="#onBrowseClick"
+           prefHeight="25.0" prefWidth="80.0" text="Browse"/>
+   <TextField fx:id="input" layoutX="20.0" layoutY="25.0" prefHeight="25.0" prefWidth="360.0"/>
+</Pane>

@@ -124,7 +124,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>se2324.assignment08architectureimplementationsimonkiliannils/se2324.assignment08architectureimplementationsimonkiliannils.HelloApplication</mainClass>
+              <mainClass>se2324.assignment08architectureimplementationsimonkiliannils/se2324.assignment08architectureimplementationsimonkiliannils.Calculator</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>
